@@ -4,8 +4,9 @@ type: essay
 title: Benefits and Disadvantages of UI Frameworks
 date: 2019-10-10
 labels:
-  - Semantic UI
+  - Software Engineering
   - Learning
+  - UI Frameworks
  
 ---
 Work smarter, not harder! We've all heard this phrase before at least once in our lifetime. It means to use your thinking skills to minimize tasks, so that you use your time wisely and more efficiently to get things done quickly. This phrase can also be applied to the development world in the form of a UI Framework.
