@@ -8,7 +8,6 @@ labels:
   - Computer Science
   - Inspiration
   - Development
-  - Passion
   
  
 ---
@@ -16,4 +15,4 @@ What do you think of when you hear the words "Run" and "Escape"? For most people
 
 ## Run Escape
 
-<img class="ui medium floated round image" src="../images/Runescape.jpg">
+<img class="ui huge centered image" src="../images/Runescape.jpg">
