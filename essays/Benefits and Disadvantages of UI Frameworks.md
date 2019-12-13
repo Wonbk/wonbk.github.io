@@ -27,7 +27,6 @@ This includes things like:
 - Great for prototyping
 - Handy when against tight deadlines
 - Provides solid foundation for responsive design
-- 
 
 ### Good Looking UI
 
