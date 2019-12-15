@@ -12,4 +12,4 @@ labels:
   - React
 summary: A web application that organizes food options from vendors at UH Manoa for ICS 314.
 ---
-<img class="ui large centered image" src="../images/FoodOptions.png">
+<img class="ui huge centered image" src="../images/FoodOptions.png">
