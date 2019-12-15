@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Food-Mood-landing.png
+image: images/Food-Mood.png
 title: Food-Mood
 permalink: projects/Food-Mood
 date: 2019-12-17
