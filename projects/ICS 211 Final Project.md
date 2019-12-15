@@ -13,7 +13,7 @@ summary: My final project on all the lessons learned throughout ICS 211.
 ---
 In my ICS 211 class, which is a continuation of topics from ICS 111, we had to do a final project on all the lessons learned. This included lessons from sorting and searching integers in an array, loops, functions, etc. 
 
-<img class="ui large centered image" src="../images/Linear-Search.png">
+<img class="ui huge centered image" src="../images/Linear-Search.png">
 
 ## The Program
 The program first begins by asking the user to begin the program by selecting "yes" or "no" option. If the user selects "no", the program terminates. If the user selects "yes", the program begins. It then creates a random array of 20 integers from 1-1000 and stores them in a new file. It then goes into a while loop with the options:
