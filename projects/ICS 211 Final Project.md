@@ -11,7 +11,7 @@ labels:
   - ICS 211
 summary: My final project on all the lessons learned throughout ICS 211.
 ---
-In my ICS 211 class, which is a continuation of topics from ICS 111, we had to do a final project on all the lessons learned. This included lessons from sorting and searching integers in an array, loops, functions, etc. 
+In my ICS 211 class, which is a continuation of topics from ICS 111, I had to do a final project on all the lessons learned. This included lessons from sorting and searching integers in an array, loops, functions, etc. 
 
 <img class="ui huge centered image" src="../images/Linear-Search.png">
 

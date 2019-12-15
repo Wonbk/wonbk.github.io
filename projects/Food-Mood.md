@@ -19,3 +19,4 @@ For our final project in ICS 314, we had to develop a web application that utili
 
 ## **What is Food Mood?**
 
+Food Mood is a interactive web application specifically produced for UH Manoa students. It features food options from vendors located on UH Manoa campus. Users can log in to view all 18 vendors with 4 food options from each totalling to 72 options. Each food option is displayed in a card where it shows the name, price, vendor, availability, ethnicity, and whether or not it's vegan. There is also a search bar where users can search for their choice and sort for ethnicity and vegan options. Users are able to view food options available at that very moment. They can also manage their favorite food choices and leave any reviews to their satisfaction.
