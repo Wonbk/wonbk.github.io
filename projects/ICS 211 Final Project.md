@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Java.png
+image: images/Java.jpg
 title: ICS 211 Final Project
 permalink: projects/ICS-211-Final-Project
 date: 2019-04-30
