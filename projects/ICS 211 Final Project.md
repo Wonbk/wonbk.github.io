@@ -27,3 +27,5 @@ The program first begins by asking the user to begin the program by selecting "y
 If you choose option 1, it displays the unsorted array. If you choose option 2, it sorts the array and displays it. If you choose option 3, it searches for a number in the array using linear search. If the number is found, then it displays a statement that the number exists. If the number is not found, it displays statement that it is not in the list. If you choose option 4, it saves the array to an external file on notepad. And finally if you choose option 5, it terminates the program.
 
 In the two intro courses ICS 111 and ICS 211, I've learned a lot about java language and programming in general. It was fun to make an interactive program and hope to improve my skills in Java in the near future.
+
+You can find the source code here <a href=" https://github.com/Wonbk/ICS-211-final-project/blob/master/FinalProject1.java">
