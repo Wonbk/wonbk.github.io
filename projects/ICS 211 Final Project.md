@@ -28,4 +28,4 @@ If you choose option 1, it displays the unsorted array. If you choose option 2, 
 
 In the two intro courses ICS 111 and ICS 211, I've learned a lot about java language and programming in general. It was fun to make an interactive program and hope to improve my skills in Java in the near future.
 
-You can find the source code here <a href="https://github.com/Wonbk/ICS-211-final-project/blob/master/FinalProject1.java"></a>
+You can find the source code here <a href="https://github.com/Wonbk/ICS-211-final-project/blob/master/FinalProject1.java">
