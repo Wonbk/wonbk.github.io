@@ -53,4 +53,4 @@ p {
 ```
 we get this:
 
-<img class="ui medium image" src="../images/player 1.png">
+<img class="ui small image" src="../images/player 1.png">
