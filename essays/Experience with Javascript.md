@@ -53,4 +53,23 @@ p {
 ```
 we get this:
 
-<img class="ui small image" src="../images/player 1.png">
+<img class="ui medium image" src="../images/player 1.png">
+
+After adding some Javascript:
+```
+const para = document.querySelector('p');
+
+para.addEventListener('click', updateName);
+
+function updateName() {
+  let name = prompt('Enter a new name');
+  para.textContent = 'Player 1: ' + name;
+}
+
+
+```
+we can now add your name by clicking on the button.
+
+## My Experience with Javascript
+
+My experience with learning Javascript has been enjoyable thus far although it was my first time learning in ICS 314. For my ICS 314 class, we had weekly WODs which are timed coding assignments done in class. I found the weekly WODs to be stressful because those assignments were a big part of my grade. So naturally it puts a lot of pressure on you especially when you are being timed. In the long run, I believe it will help me be a better coder as it helps with learning how to code efficiently and quickly.
