@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: essay
+title: Importance of Agile Project Management
 date: 2019-12-17
 labels:
   - Web Development
@@ -11,7 +11,7 @@ labels:
  
 ---
 
-In this ICS 314 course, I have greatly improved my skills ranging from web development with react to learning databases with MongoDb. But two very important aspects of software engineering I've learned in ky opinion is Agile Project Management and Open Source Software Development.
+In this ICS 314 course, I have greatly improved my skills ranging from web development with react to learning databases with MongoDb. But two very important aspects of software engineering I've learned in my opinion is Agile Project Management and Open Source Software Development.
 
 <img class="ui huge centered image" src="../images/agile-project-management.jpg">
 
