@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Food-Mood-square.png
+image: images/food-mood-logo.png
 title: Food-Mood
 permalink: projects/Food-Mood
 date: 2019-12-17
